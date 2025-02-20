@@ -1,0 +1,13 @@
+[
+    {
+        "question": "How many days of PTO do employees receive?",
+        "expected_answer": "Full-time employees accrue PTO based on years of service: 15 days for 0-3 years, 20 days for 4-7 years, and 25 days for 8+ years.",
+        "expected_sources": ["leave_and_attendance_policy.docx"]
+    },
+    {
+        "question": "What are the observed paid holidays at ChemNovus Incorporated?",
+        "expected_answer": "The company observes New Year's Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, and Christmas Day as paid holidays.",
+        "expected_sources": ["leave_and_attendance_policy.docx"]
+    }
+
+]
