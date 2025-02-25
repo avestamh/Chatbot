@@ -1,4 +1,4 @@
-The file includes the app.py to run the chatbot, python_indexer.py to indext the file, whatcher.py to watch for new document, delted of modified document to re-index the db file. It does it dynamically without the need to run python_indexer on the entire database.
+The file includes the app.py to run the chatbot, python_indexer.py to indext the file, whatcher.py to watch for new documents, and deleted of the modified documents to re-index the db file. It does it dynamically without running python_indexer on the entire database.
 
 # 🏢  An HR Chatbot with Dynamic RAG and FAISS Integration
 
