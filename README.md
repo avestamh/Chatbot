@@ -1,6 +1,6 @@
 The file includes the app.py to run the chatbot, python_indexer.py to indext the file, whatcher.py to watch for new document, delted of modified document to re-index the db file. It does it dynamically without the need to run python_indexte on the entire data base.
 
-# 🏢  Chatbot with Dynamic RAG and FAISS Integration
+# 🏢  An HR Chatbot with Dynamic RAG and FAISS Integration
 
 A dynamic HR chatbot powered by **GPT-4** and **FAISS**, designed to assist employees with HR-related queries. The system supports real-time document updates, multiple file formats (PDF, DOCX, PPTX, XLSX), and scalable deployment on both on-premises and cloud platforms.
 
