@@ -21,6 +21,8 @@ A dynamic HR chatbot powered by **GPT-4** and **FAISS**, designed to assist empl
 - **CI/CD Pipelines** for automated deployment
 - **OCR Integration** for handling documents with embedded images
 
+![RAI](https://github.com/user-attachments/assets/fb5fd21e-d20b-47da-9bb0-170a09230769)
+
 ##  Usage
 1. **Clone the Repository:**
    ```bash
