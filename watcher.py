@@ -1,3 +1,4 @@
+# Author: Sadra Avestan Feb 2025
 """
 Automates FAISS indexing using a File Watcher (real-time detection).
 Instead of re-indexing all documents, it updates FAISS only for new, modified, or deleted files.
