@@ -1,4 +1,7 @@
 # Author: Sadra Avestan Feb 2025
+''' 
+This file measures Rouge 1, 2, Recall@K, SBERT and alsow looking to detect bias queries
+'''
 import json
 import os
 import re
