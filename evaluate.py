@@ -1,7 +1,7 @@
 # Author: Sadra Avestan Feb 2025
 ''' 
 This file measures Rouge 1, 2, Recall@K, and SBERT and also looks for bias queries.
-It take advantage of re-ranking to improve the evaluaion score
+It takes advantage of re-ranking to improve the evaluaion score
 '''
 import json
 import os
