@@ -1,2 +1,4 @@
-This is a simple sentiment analysis that is using gradio to generate a quick interface.
+This simple sentiment analysis uses Gradio to generate a quick interface.
+
+
 
