@@ -3,6 +3,9 @@ This is a simple machine learning application built using Gradio that combines
 a Random Forest model with an interactive web interface
 to predict a class based on two input features.
 '''
+#-------------------------------
+# Author: Sadra Avestan Mar 2025
+#-------------------------------
 import gradio as gr
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
